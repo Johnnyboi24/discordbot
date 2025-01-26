@@ -6,4 +6,4 @@ node .
 
 commands to refresh commands
 
-node src/register-commands.js
+node src/[foldername]/[filename]
